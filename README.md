@@ -1,6 +1,6 @@
 # Datalogger Industrial — BeagleBone Black
 
-Projeto de Linux Embarcado desenvolvido para a disciplina TEC.1 — IFPB Campina Grande.
+Projeto de Linux Embarcado desenvolvido para a disciplina TEC.2 — IFPB Campina Grande.
 
 **Dupla:**
 - Lucas Daris de Souza
