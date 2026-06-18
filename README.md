@@ -42,6 +42,7 @@ Sistema de datalogger de temperatura autônomo rodando em BeagleBone Black com L
 
 ### 1. Habilitar o sensor 1-Wire (overlay device tree)
 
+
 ```bash
 cat > /tmp/w1.dts << 'EOF'
 /dts-v1/;
